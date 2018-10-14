@@ -12,6 +12,7 @@ I don't want to include the mods themselves since I don't want to check their li
 
 - Firespitter 7.9.0
 - RemoteTech 1.8.13.131
+- RLA Reborn 0.15.1.3
 - SpaceY Heavy-Lifter Parts Pack v1.17.2
 - SXTContinued 0.3.23.7 (partial)
  - Deleted Trucks
