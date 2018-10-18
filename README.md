@@ -11,6 +11,7 @@ You start out with very low-tech unmanned probes and you shouldn't expect to rea
 I don't want to include the mods themselves since I don't want to check their licenses for permission. Therefore I'll only list them here and possibly also a link to download them if they're somewhat difficult to find.
 
 - Firespitter 7.9.0
+- Modular Rocket Systems 1.13.2
 - RemoteTech 1.8.13.131
 - RLA Reborn 0.15.1.3
 - SpaceY Heavy-Lifter Parts Pack v1.17.2
