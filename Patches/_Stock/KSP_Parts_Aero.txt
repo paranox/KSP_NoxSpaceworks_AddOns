@@ -1,0 +1,75 @@
+// For Kerbal Space Program 1.6.x
+// Author: Paranox
+
+// List of parts in Aero category
+
+//standardNoseCone 		// Small Nose Cone
+//noseCone 				// Aerodynamic Nose Cone
+//pointyNoseConeA 		// Advanced Nose Cone - Type A
+//pointyNoseConeB 		// Advanced Nose Cone - Type B
+//rocketNoseCone 		// Protective Rocket Nose Cone Mk7
+//rocketNoseCone_v2 	// Protective Rocket Nose Cone Mk7
+//avionicsNoseCone 		// CH-J3 Fly-By-Wire Avionics Hub
+
+//miniIntake 		// Small Circular Intake
+//airScoop 			// XM-G50 Radial Air Intake
+//CircularIntake 	// Circular Intake
+//shockConeIntake 	// Shock Cone Intake
+//IntakeRadialLong 	// Adjustable Ramp Intake (Radial)
+//ramAirIntake 		// Adjustable Ramp Intake
+
+//noseConeAdapter 	// NCS Adapter
+//airplaneTail 		// Tail Connector A
+//airplaneTailB		// Tail Connector B
+
+//basicFin 			// Basic Fin
+//winglet 			// AV-T1 Winglet
+//sweptWing 		// Swept Wings
+
+//winglet3 			// Delta-Deluxe Winglet
+//R8winglet 		// AV-R8 Winglet
+//tailfin 			// Tail Fin
+//AdvancedCanard 	// Advanced Canard
+//CanardController 	// Standard Canard
+
+//wingConnector 	// Wing Connector Type A
+//wingConnector2 	// Wing Connector Type B
+//wingConnector3 	// Wing Connector Type C
+//wingConnector4 	// Wing Connector Type D
+//wingConnector5 	// Wing Connector Type E
+//wingStrake 		// Wing Strake
+//deltaWing 		// Delta Wing
+//delta_small 		// Small Delta Wing
+//structuralWing 	// Structural Wing Type A
+//structuralWing2 	// Structural Wing Type B
+//structuralWing3 	// Structural Wing Type C
+//structuralWing4 	// Structural Wing Type D
+//sweptWing1 		// Swept Wing Type A
+//sweptWing2 		// Swept Wing Type B
+//StandardCtrlSrf	// Elevon 1
+//elevon2 			// Elevon 2
+//elevon3 			// Elevon 3
+//smallCtrlSrf 		// Elevon 4
+//elevon5 			// Elevon 5
+
+//airlinerMainWing 		// FAT-455 Aeroplane Main Wing
+//airlinerTailFin 		// FAT-455 Aeroplane Tail Fin
+//airlinerCtrlSrf 		// FAT-455 Aeroplane Control Surface
+
+//wingShuttleDelta 		// Big-S Delta Wing
+//wingShuttleStrake 	// Big-S Wing Strake
+//wingShuttleRudder 	// Big-S Spaceplane Tail Fin
+//wingShuttleElevon1 	// Big-S Elevon 1
+//wingShuttleElevon2 	// Big-S Elevon 2
+
+//airbrake1 		// A.I.R.B.R.A.K.E.S
+
+//fairingSize1 		// AE-FF1 Airstream Protective Shell (1.25m)
+//fairingSize2 		// AE-FF2 Airstream Protective Shell (2.5m)
+//fairingSize3 		// AE-FF3 Airstream Protective Shell (3.75m)
+
+//HeatShield0 			// Heat Shield (0.625m)
+//HeatShield1 			// Heat Shield (1.25m)
+//HeatShield2 			// Heat Shield (2.5m)
+//HeatShield3 			// Heat Shield (3.75m)
+//InflatableHeatShield 	// Heat Shield (10m)
