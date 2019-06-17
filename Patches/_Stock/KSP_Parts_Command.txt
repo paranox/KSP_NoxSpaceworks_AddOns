@@ -1,0 +1,54 @@
+// For Kerbal Space Program 1.6.x
+// Author: Paranox
+
+// List of parts in Command category
+
+// - Stock -
+
+//probeCoreSphere 			// Probodobodyne Stayputnik
+//probeCoreSphere_v2 		// Probodobodyne Stayputnik (new)
+//probeCoreCube 			// Probodobodyne QBE
+//probeCoreHex 				// Probodobodyne HECS
+//probeCoreHex_v2 			// Probodobodyne HECS (new)
+//probeCoreOcto 			// Probodobodyne OKTO
+//probeCoreOcto_v2 			// Probodobodyne OKTO (new)
+//probeCoreOcto2 			// Probodobodyne OKTO2
+//probeCoreOcto2_v2 		// Probodobodyne OKTO2 (new)
+//probeStackSmall 			// RC-001S Remote Guidance Unit
+//probeStackLarge 			// RC-L01 Remote Guidance Unit
+//mk2DroneCore 				// MK2 Drone Core
+//roverBody 				// Probodobodyne RoveMate
+//roverBody_v2 				// Probodobodyne RoveMate (new)
+
+//seatExternalCmd 			// EAS-1 External Command Seat
+
+//landerCabinSmall 			// Mk1 Lander Can
+//mk2LanderCabin 			// Mk2 Lander Can
+//mk2LanderCabin_v2 		// Mk2 Lander Can (new)
+
+//mk1pod 					// Mk1 Command Pod
+//mk1pod_v2 				// Mk1 Command Pod (new)
+//Mark1-2Pod 				// Mk1-2 Command Pod // Hidden by stock config
+//mk1-3pod 					// Mk1-3 Command Pod
+//cupola 					// PPD-12 Cupola Module
+
+//Mark1Cockpit 				// Mk1 Cockpit
+//Mark2Cockpit 				// Mk1 Inline Cockpit
+//mk2Cockpit_Standard 		// Mk2 Cockpit
+//mk2Cockpit_Inline 		// Mk2 Inline Cockpit
+//mk3Cockpit_Shuttle 		// Mk3 Cockpit
+
+//MK1CrewCabin 				// Mk1 Crew Cabin
+//crewCabin 				// PPD-10 Hitchhiker Storage Container
+
+//sasModule 				// Small Inline Reaction Wheel
+//advSasModule 				// Advanced Inline Stabilizer
+//asasmodule1-2 			// Advanced Reaction Wheel Module, Large
+
+// - Making History Expansion -
+
+//kv1Pod 					// KV-1 'Shallot' Reentry Module
+//kv2Pod 					// KV-2 'Onion' Reentry Module
+//kv3Pod 					// KV-3 'Tato' Reentry Module
+
+//Mk2Pod 					// Mk2 Command Pod
